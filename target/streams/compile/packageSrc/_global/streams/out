@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\target\scala-2.13\play-java-jpa-example_2.13-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\conf\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\conf\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\conf\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\conf\META-INF\persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\PersonController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\app\controllers\PersonController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\DatabaseExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\app\models\DatabaseExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\JPAPersonRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\app\models\JPAPersonRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\Person.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\app\models\Person.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models\PersonRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\luisf\Downloads\play-samples-play-java-jpa-example\play-samples-play-java-jpa-example\app\models\PersonRepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
